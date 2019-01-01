@@ -1,2 +1,4 @@
 /.idea
 *.pyc
+app/api/*.pyc
+app/main/*.pyc
